@@ -14,7 +14,7 @@ This repository contains a Power BI dashboard project built using the AdventureW
 - MS SQL SERVER
 - DAX & Power Query
 
----
+
 
 ## 📊 Dashboard Features
 
@@ -25,7 +25,7 @@ This repository contains a Power BI dashboard project built using the AdventureW
 - 🔮 Forecasting Future Sales
 - 🎯 KPI Summary Cards and Filters
 
----
+
 
 ## 📁 Files Included
 
@@ -33,7 +33,7 @@ This repository contains a Power BI dashboard project built using the AdventureW
 - `Screenshots/`: Images of the dashboard visuals
 - `README.md`: This file
 
----
+
 
 ## 🚀 Quick Insights
 
@@ -41,7 +41,7 @@ This repository contains a Power BI dashboard project built using the AdventureW
 - **Top Products**: Identify high-performing categories and items.
 - **Regional Performance**: Visualize which regions contribute most to revenue.
 
----
+
 
 ## 🔄 How to Use
 
@@ -50,12 +50,12 @@ This repository contains a Power BI dashboard project built using the AdventureW
 3. Explore filters and visuals for interactive analysis.
 4. (Optional) Replace the dataset with updated sales info for live dashboards.
 
----
+
 
 ## 🙋‍♂️ Author
 
 **[Mona Rizq]**  
 Business Intelligence Specialist & Data Analyst  
 
----
+
 
