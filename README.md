@@ -22,7 +22,6 @@ This repository contains a Power BI dashboard project built using the AdventureW
 - 📦 Product Category & Subcategory Performance
 - 🏬 Sales by Region and Channel
 - 📈 Profit Analysis & Top Performing Products
-- 🔮 Forecasting Future Sales
 - 🎯 KPI Summary Cards and Filters
 
 
