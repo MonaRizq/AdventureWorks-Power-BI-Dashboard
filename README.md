@@ -1,11 +1,5 @@
-# AdventureWorks-Power-BI-Dashboard
+# AdventureWorks Power BI Dashboard
 This repository contains a Power BI dashboard project built using the AdventureWorks dataset. The dashboard provides interactive visualizations and insights into sales, profit and regional performance for business analysis.
-
-
-
-## Overview
-This repository contains a Power BI dashboard project built using the AdventureWorks dataset. The dashboard provides interactive visualizations and insights into sales, profit, forecasting, and regional performance for business analysis.
-
 
 
 ## 🛠️ Tools & Technologies
@@ -13,7 +7,6 @@ This repository contains a Power BI dashboard project built using the AdventureW
 - Power BI
 - MS SQL SERVER
 - DAX & Power Query
-
 
 
 ## 📊 Dashboard Features
@@ -25,15 +18,6 @@ This repository contains a Power BI dashboard project built using the AdventureW
 - 🎯 KPI Summary Cards and Filters
 
 
-
-## 📁 Files Included
-
-- `AdventureWorksDashboard.pbix`: Power BI dashboard file
-- `Screenshots/`: Images of the dashboard visuals
-- `README.md`: This file
-
-
-
 ## 🚀 Quick Insights
 
 - **Total Sales**: Understand growth patterns across years and quarters.
@@ -41,20 +25,10 @@ This repository contains a Power BI dashboard project built using the AdventureW
 - **Regional Performance**: Visualize which regions contribute most to revenue.
 
 
-
-## 🔄 How to Use
-
-1. Clone this repo or download the `.pbix` file.
-2. Open with Power BI Desktop.
-3. Explore filters and visuals for interactive analysis.
-4. (Optional) Replace the dataset with updated sales info for live dashboards.
-
-
-
 ## 🙋‍♂️ Author
 
-**[Mona Rizq]**  
-Business Intelligence Specialist & Data Analyst  
+- [Mona Rizq] 
+- Business Intelligence Specialist & Data Analyst  
 
 
 
